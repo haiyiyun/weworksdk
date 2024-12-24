@@ -7,9 +7,9 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/go-laoji/wxbizmsgcrypt"
 	wework "github.com/haiyiyun/weworksdk"
 	"github.com/haiyiyun/weworksdk/pkg/svr/logic"
+	"github.com/haiyiyun/weworksdk/wxbizmsgcrypt"
 )
 
 // CustomizedGetHandler 代开发自建应用回调配置
